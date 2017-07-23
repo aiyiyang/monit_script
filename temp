@@ -1,0 +1,10 @@
+ayy       6882 12.0  5.4 3261604 442260 ?      Sl   22:02   3:37 /usr/lib/firefox/firefox
+ayy       3895  5.9  2.1 1666596 176716 ?      Sl   21:25   4:01 /usr/lib/netease-cloud-music/netease-cloud-music
+root       868  4.7  2.7 880476 221156 tty7    Ssl+ 21:21   3:24 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+ayy       3933  4.3  2.5 1131568 207180 ?      Sl   21:25   2:56 /usr/lib/netease-cloud-music/netease-cloud-music --type=zygote --lang=en-US --log-file=/home/ayy/.cache/netease-cloud-music/Cef/console.log --log-severity=disable
+ayy       1850  4.0  1.6 1455956 130992 ?      Ssl  21:22   2:53 compiz
+ayy       7452  2.7  0.9 841268 73856 ?        Sl   22:08   0:39 gnome-system-monitor
+ayy       7226  1.5  1.5 1610936 122060 ?      Ssl  22:05   0:25 /opt/sublime_text/sublime_text /home/ayy/myshell_scripts/ayy_monit.sh
+ayy       1939  1.1  0.1 502500 12244 ?        S<l  21:22   0:49 /usr/bin/pulseaudio --start --log-target=syslog
+ayy       1891  1.1  0.1 739388 10660 ?        Ssl  21:22   0:47 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+ayy       1704  0.8  0.0  44032  4456 ?        Ss   21:22   0:37 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-jxEjQ5iaKQ
